@@ -1,0 +1,38 @@
+
+
+.navbar-inverse{
+	margin-bottom:0px;
+}
+.line{
+	height:5px;
+}
+.panel-heading{
+	height:50px;
+	margin:0px;
+	border:0px;
+}
+h3{
+	margin-top:-2px;
+}
+.panel-body{
+	padding:5px;
+}
+.footer{
+	height:50px;
+	background:black;
+	border-radius:5px;
+	color:#fff;
+	padding:0px 10px;
+	line-height:50px;
+	
+}
+
+blockquote:before {
+ content:  ;
+}
+blockquote:after {
+ content: ;
+}
+
+ 
+ 

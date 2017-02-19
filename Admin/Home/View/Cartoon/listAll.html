@@ -1,0 +1,27 @@
+<extend name="Index:index"/>
+//继承index界面
+<block name="right">
+<volist name="rows" id="rows">
+		<div class="panel panel-default">
+		<div class="panel-heading">
+            <h3><{$rows['title']}></h3>
+		</div>
+<!-- 内容页 -->
+		  <div class="panel-body">
+		<{$rows['content']| htmlspecialchars_decode}>
+				  </div>
+		  <div class="panel-footer foot">
+		  <span class="label label-danger">Post Time</span>
+		  <span><{$rows['time']}></span>
+		   <span class="label label-danger">Author</span>
+		  <span><{$rows['username']}></span>
+		  <div class="pull-right">
+		  <a class="btn btn-primary" href="Index/edit/id/<{$rows['id']}>" role="button">编辑</a>
+		  <a class="btn btn-danger" href="#" role="button">删除</a>
+		 
+		  </div>
+		  </div>
+		</div>
+		</volist>
+	
+</block>

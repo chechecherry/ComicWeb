@@ -1,0 +1,586 @@
+[ 2017-02-12T10:37:09+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000463s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005845s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.0403s ]
+NOTIC: [8] Undefined index: validate H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cartoon` (`username`,`title`,`content`,`time`) VALUES ('Cxx','Real test','&lt;div style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;/ComicWeb/Public/kd/attached/image/20170212/20170212031010_97791.png&quot; alt=&quot;&quot; /&gt;&lt;span style=&quot;font-family:&amp;quot;font-size:32px;&quot;&gt;&lt;strong&gt;Hi,save this.&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;','2017-02-12 10:02:09') [ RunTime:0.1371s ]
+NOTIC: [8] Use of undefined constant add - assumed 'add' H:\phpEclipseWork\ComicWeb\Admin\Home\Controller\CartoonController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005243s ]
+
+[ 2017-02-12T10:37:10+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000390s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004585s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001644s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005843s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.215119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.217177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-12T10:51:51+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000377s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006673s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003985s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071209s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004137s ]
+
+[ 2017-02-12T10:52:04+08:00 ] ::1 /ComicWeb/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000588s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004149s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000910s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005503s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004382s ]
+
+[ 2017-02-12T10:56:11+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000341s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004350s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000848s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002870s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005292s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005444s ]
+
+[ 2017-02-12T10:56:38+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000355s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003719s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.0745s ]
+NOTIC: [8] Undefined index: validate H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cartoon` (`username`,`title`,`content`,`time`) VALUES ('cxx','aaaAa','&lt;img src=&quot;/ComicWeb/Public/kd/attached/image/20170212/20170212035634_78832.png&quot; alt=&quot;&quot; /&gt;sadddddddddddddddddddddddd','2017-02-12 10:02:38') [ RunTime:0.0542s ]
+NOTIC: [8] Use of undefined constant add - assumed 'add' H:\phpEclipseWork\ComicWeb\Admin\Home\Controller\CartoonController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000818s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002962s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003820s ]
+
+[ 2017-02-12T10:56:40+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000341s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002921s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004039s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000811s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002697s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004716s ]
+
+[ 2017-02-12T10:56:41+08:00 ] ::1 /ComicWeb/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000338s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004260s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000809s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003394s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001781s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004894s ]
+
+[ 2017-02-12T11:13:57+08:00 ] ::1 /ComicWeb/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000320s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004068s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000790s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002582s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002733s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004250s ]
+
+[ 2017-02-12T12:19:53+08:00 ] ::1 /ComicWeb/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000598s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004074s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001007s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003387s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038343s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004410s ]
+
+[ 2017-02-12T12:20:30+08:00 ] ::1 /ComicWeb/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000350s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004553s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000830s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002734s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002005s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003601s ]
+
+[ 2017-02-12T12:20:32+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000348s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004998s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000857s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002749s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003508s ]
+
+[ 2017-02-12T12:21:00+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003012s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004554s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.0045s ]
+NOTIC: [8] Undefined index: validate H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cartoon` (`username`,`title`,`content`,`time`) VALUES ('cxx','htmlDecode','HOME COME IST RONOG&amp;nbsp;','2017-02-12 12:02:00') [ RunTime:0.0712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003693s ]
+
+[ 2017-02-12T12:21:21+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004059s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000825s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002711s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004458s ]
+
+[ 2017-02-12T12:21:45+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000345s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004522s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.0057s ]
+NOTIC: [8] Undefined index: validate H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cartoon` (`username`,`title`,`content`,`time`) VALUES ('cxx','complicated','&lt;span style=&quot;font-family:&amp;quot;font-size:32px;color:#333333;&quot;&gt;dasfasdfafds&lt;/span&gt;&lt;span style=&quot;font-family:&amp;quot;font-size:32px;color:#333333;&quot;&gt;&lt;/span&gt;','2017-02-12 12:02:45') [ RunTime:0.0895s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004637s ]
+
+[ 2017-02-12T12:29:59+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000355s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003518s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined index: validate H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cartoon` (`username`,`title`,`content`,`time`) VALUES ('cxx','complicated','&lt;span style=&quot;font-family:&amp;quot;font-size:32px;color:#333333;&quot;&gt;dasfasdfafds&lt;/span&gt;&lt;span style=&quot;font-family:&amp;quot;font-size:32px;color:#333333;&quot;&gt;&lt;/span&gt;','2017-02-12 12:02:58') [ RunTime:0.1002s ]
+NOTIC: [8] Use of undefined constant add - assumed 'add' H:\phpEclipseWork\ComicWeb\Admin\Home\Controller\CartoonController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001640s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005396s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063383s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004573s ]
+
+[ 2017-02-12T12:30:00+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003682s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000822s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002842s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001778s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003506s ]
+
+[ 2017-02-12T12:30:19+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000347s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003430s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.0043s ]
+NOTIC: [8] Undefined index: validate H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cartoon` (`username`,`title`,`content`,`time`) VALUES ('cxxxx','dasd','&lt;strong&gt;&lt;span style=&quot;color:#CC33E5;background-color:#9933E5;font-size:32px;&quot;&gt;fasda&lt;/span&gt;&lt;/strong&gt;','2017-02-12 12:02:19') [ RunTime:0.0513s ]
+NOTIC: [8] Use of undefined constant add - assumed 'add' H:\phpEclipseWork\ComicWeb\Admin\Home\Controller\CartoonController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000806s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002881s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001392s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003951s ]
+
+[ 2017-02-12T12:30:20+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003505s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000826s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002771s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003792s ]
+
+[ 2017-02-12T12:30:21+08:00 ] ::1 /ComicWeb/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000351s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003486s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000829s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002720s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003316s ]
+
+[ 2017-02-12T16:02:08+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000358s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004395s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000994s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003294s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003906s ]
+
+[ 2017-02-12T16:03:15+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000349s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002871s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004851s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.0044s ]
+NOTIC: [8] Undefined index: validate H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto H:\phpEclipseWork\ComicWeb\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cartoon` (`username`,`title`,`content`,`time`) VALUES ('cxx','Hello World','&lt;p&gt;
+	&lt;img src=&quot;/ComicWeb/Public/kd/attached/image/20170212/20170212090238_83248.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+	&lt;span style=&quot;font-size:32px;font-family:&amp;quot;color:#E53333;&quot;&gt;&lt;strong&gt;Hope you like it .&lt;/strong&gt;&lt;/span&gt;
+&lt;/p&gt;','2017-02-12 04:02:15') [ RunTime:0.1086s ]
+NOTIC: [8] Use of undefined constant add - assumed 'add' H:\phpEclipseWork\ComicWeb\Admin\Home\Controller\CartoonController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001598s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005492s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004457s ]
+
+[ 2017-02-12T16:03:16+08:00 ] ::1 /ComicWeb/admin.php/Home/Cartoon/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000351s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003847s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000817s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002719s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\a603abcd6d0abbb8858d2c1abda4ac93.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001727s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005814s ]
+
+[ 2017-02-12T16:03:18+08:00 ] ::1 /ComicWeb/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000440s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005128s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_9r22djkli517flspv95lgofme5, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000816s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002818s ]
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Use of undefined constant menu - assumed 'menu' H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+NOTIC: [8] Undefined index: menu H:\phpEclipseWork\ComicWeb\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004124s ]
+

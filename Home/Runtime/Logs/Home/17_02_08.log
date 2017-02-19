@@ -1,0 +1,1712 @@
+[ 2017-02-08T11:03:06+08:00 ] ::1 /ComicWeb/index.php/home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000368s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004359s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:user
+
+[ 2017-02-08T11:03:12+08:00 ] ::1 /ComicWeb/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000741s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003633s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 模板不存在:./Home/Home/View/Index/index.html
+
+[ 2017-02-08T11:03:26+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004278s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 模板不存在:./Home/Home/View/Index/index.html
+
+[ 2017-02-08T11:04:49+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000336s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003861s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000758s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002610s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003782s ]
+
+[ 2017-02-08T11:12:30+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000334s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003944s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000771s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004746s ]
+
+[ 2017-02-08T11:12:55+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000347s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003605s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000760s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002978s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003671s ]
+
+[ 2017-02-08T11:24:17+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000459s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003846s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000903s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003315s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003618s ]
+
+[ 2017-02-08T11:24:18+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC/bs/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000341s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004916s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC
+
+[ 2017-02-08T11:24:18+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000684s ]
+INFO: [ app_init ] --END-- [ RunTime:0.054551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019045s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T11:24:18+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000705s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017050s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T11:24:18+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000618s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004198s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T11:24:18+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC/bs/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000337s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003719s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC
+
+[ 2017-02-08T11:24:18+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000347s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003721s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:24:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000415s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004574s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029870s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004039s ]
+
+[ 2017-02-08T12:24:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC/bs/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000337s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.105535s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC
+
+[ 2017-02-08T12:24:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000364s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007461s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:24:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000617s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012310s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:24:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000594s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011146s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:24:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC/bs/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000341s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003735s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC
+
+[ 2017-02-08T12:24:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000351s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004531s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:33:41+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000361s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004134s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:34:47+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000388s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004276s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000777s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002804s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031665s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003627s ]
+
+[ 2017-02-08T12:34:48+08:00 ] ::1 /ComicWeb/index.php/Home/index/public/bs/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000336s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003627s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:public
+
+[ 2017-02-08T12:34:48+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000604s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005293s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:34:48+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC/bs/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000396s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027959s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005594s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC
+
+[ 2017-02-08T12:34:48+08:00 ] ::1 /ComicWeb/index.php/Home/index/public/bs/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000683s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006043s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:public
+
+[ 2017-02-08T12:34:48+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC/bs/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000337s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004448s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC
+
+[ 2017-02-08T12:34:48+08:00 ] ::1 /ComicWeb/index.php/Home/index/_PUBLIC_/bs/js/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000385s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004592s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:_PUBLIC_
+
+[ 2017-02-08T12:38:19+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000350s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003908s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000783s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002659s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003993s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003709s ]
+
+[ 2017-02-08T12:47:08+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000352s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004142s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000815s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002978s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004751s ]
+
+[ 2017-02-08T12:51:35+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000430s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003858s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003506s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003570s ]
+
+[ 2017-02-08T12:56:37+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004134s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000796s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002749s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003916s ]
+
+[ 2017-02-08T15:01:56+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000336s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004022s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000782s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002647s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004274s ]
+
+[ 2017-02-08T15:14:43+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003658s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000963s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003730s ]
+
+[ 2017-02-08T15:14:43+08:00 ] ::1 /ComicWeb/index.php/Home/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000534s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003833s ]
+
+[ 2017-02-08T15:15:35+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000346s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002975s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004126s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004656s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005076s ]
+
+[ 2017-02-08T15:15:35+08:00 ] ::1 /ComicWeb/index.php/Home/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000813s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005364s ]
+
+[ 2017-02-08T15:19:08+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000349s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003645s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002936s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003756s ]
+
+[ 2017-02-08T15:19:08+08:00 ] ::1 /ComicWeb/index.php/Home/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000426s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003744s ]
+
+[ 2017-02-08T15:19:08+08:00 ] ::1 /ComicWeb/index.php/Home/Public/images/two.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000344s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003692s ]
+
+[ 2017-02-08T15:20:38+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000393s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003832s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000819s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002720s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004240s ]
+
+[ 2017-02-08T15:20:38+08:00 ] ::1 /ComicWeb/index.php/Home/View/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000590s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004900s ]
+
+[ 2017-02-08T15:20:38+08:00 ] ::1 /ComicWeb/index.php/Home/View/Public/images/two.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000622s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003861s ]
+
+[ 2017-02-08T15:55:45+08:00 ] ::1 /ComicWeb/index.php/Home/View/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000462s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003567s ]
+
+[ 2017-02-08T15:57:38+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000586s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003882s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001612s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005404s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002982s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004245s ]
+
+[ 2017-02-08T15:57:38+08:00 ] ::1 /ComicWeb/index.php/Home/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000457s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003496s ]
+
+[ 2017-02-08T15:57:38+08:00 ] ::1 /ComicWeb/index.php/Home/Public/images/two.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000350s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003217s ]
+
+[ 2017-02-08T15:58:12+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000341s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003861s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000799s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002709s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030131s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003376s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004406s ]
+
+[ 2017-02-08T15:58:12+08:00 ] ::1 /ComicWeb/index.php/Home/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000617s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005354s ]
+
+[ 2017-02-08T15:58:12+08:00 ] ::1 /ComicWeb/index.php/Home/Home/View/Public/images/two.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000634s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003965s ]
+
+[ 2017-02-08T15:59:52+08:00 ] ::1 /ComicWeb/index.php/Home/Home/View/Public/images/two.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000336s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002769s ]
+
+[ 2017-02-08T16:01:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000335s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007385s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000795s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002746s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030135s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004415s ]
+
+[ 2017-02-08T16:01:25+08:00 ] ::1 /ComicWeb/index.php/Home/index/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000371s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003840s ]
+
+[ 2017-02-08T16:01:25+08:00 ] ::1 /ComicWeb/index.php/Home/Home/View/Public/images/two.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000404s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004028s ]
+
+[ 2017-02-08T16:11:28+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000345s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003692s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000783s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002715s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003602s ]
+
+[ 2017-02-08T16:11:28+08:00 ] ::1 /ComicWeb/index.php/Home/index/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000359s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002817s ]
+
+[ 2017-02-08T16:12:13+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000380s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005044s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000817s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003373s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003805s ]
+
+[ 2017-02-08T16:12:13+08:00 ] ::1 /ComicWeb/index.php/Home/index/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000412s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003611s ]
+
+[ 2017-02-08T16:12:13+08:00 ] ::1 /ComicWeb/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000347s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004849s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000821s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003725s ]
+
+[ 2017-02-08T16:12:24+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000337s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003695s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000902s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002761s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003613s ]
+
+[ 2017-02-08T16:12:24+08:00 ] ::1 /ComicWeb/index.php/Home/index/Public/images/one.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000650s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004544s ]
+
+[ 2017-02-08T16:13:17+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000348s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003949s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000794s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002796s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003715s ]
+
+[ 2017-02-08T16:17:06+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000380s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003678s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003591s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002005s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004584s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003627s ]
+
+[ 2017-02-08T16:31:42+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000362s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003823s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000804s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002889s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004298s ]
+
+[ 2017-02-08T16:35:05+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000358s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003579s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001007s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003888s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028242s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030435s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003695s ]
+
+[ 2017-02-08T16:35:57+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000336s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003809s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003553s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003869s ]
+
+[ 2017-02-08T16:47:20+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000402s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006737s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000808s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004077s ]
+
+[ 2017-02-08T16:49:50+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000350s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003889s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000841s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002838s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003343s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003641s ]
+
+[ 2017-02-08T16:50:09+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000341s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003868s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000806s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002693s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003714s ]
+
+[ 2017-02-08T16:51:54+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000344s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003865s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000806s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003916s ]
+
+[ 2017-02-08T16:52:51+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000352s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003756s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000813s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003014s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003796s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004270s ]
+
+[ 2017-02-08T16:53:14+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000457s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003590s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000814s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002730s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004384s ]
+
+[ 2017-02-08T16:54:11+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003798s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003866s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004103s ]
+
+[ 2017-02-08T16:54:38+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000362s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003634s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000807s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002697s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003485s ]
+
+[ 2017-02-08T16:55:37+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002850s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003677s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001393s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004576s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004420s ]
+
+[ 2017-02-08T16:55:52+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000356s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003888s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000848s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002775s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003991s ]
+
+[ 2017-02-08T16:56:59+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000359s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003807s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003741s ]
+
+[ 2017-02-08T16:57:23+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000353s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005587s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000973s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003717s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004216s ]
+
+[ 2017-02-08T16:57:52+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000640s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003928s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000820s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002797s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003585s ]
+
+[ 2017-02-08T16:58:00+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000344s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000788s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002672s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001885s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003751s ]
+
+[ 2017-02-08T17:17:33+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000349s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002828s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004277s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000814s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002714s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003623s ]
+
+[ 2017-02-08T17:17:55+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000360s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004739s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001321s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004623s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003943s ]
+
+[ 2017-02-08T17:18:16+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000362s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003856s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000810s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002700s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028306s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004144s ]
+
+[ 2017-02-08T17:20:55+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004927s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003455s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003730s ]
+
+[ 2017-02-08T17:22:56+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004214s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000899s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003583s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031799s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004638s ]
+
+[ 2017-02-08T17:26:27+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000448s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004996s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000883s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002978s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006094s ]
+
+[ 2017-02-08T17:27:44+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000338s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004237s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000842s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002857s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004061s ]
+
+[ 2017-02-08T17:29:53+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004225s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000805s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002698s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001940s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003799s ]
+
+[ 2017-02-08T17:30:42+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004433s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000840s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002787s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003911s ]
+
+[ 2017-02-08T17:37:59+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000344s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004015s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000809s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002782s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003661s ]
+
+[ 2017-02-08T17:40:57+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004440s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000822s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002746s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001983s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004049s ]
+
+[ 2017-02-08T17:41:10+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003764s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000799s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002667s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004271s ]
+
+[ 2017-02-08T17:41:24+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000361s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005108s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000824s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002865s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004143s ]
+
+[ 2017-02-08T17:41:57+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000422s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005263s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003724s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036761s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004458s ]
+
+[ 2017-02-08T17:42:05+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000416s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004065s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000816s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002805s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003731s ]
+
+[ 2017-02-08T17:42:12+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000351s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003855s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000975s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002868s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003859s ]
+
+[ 2017-02-08T17:43:21+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000354s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005289s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000821s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002755s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003472s ]
+
+[ 2017-02-08T17:44:15+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000353s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004043s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000894s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002861s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005127s ]
+
+[ 2017-02-08T17:44:26+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000386s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003799s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000820s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002724s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003589s ]
+
+[ 2017-02-08T17:44:35+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000396s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003895s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000793s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002966s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004302s ]
+
+[ 2017-02-08T17:45:03+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000509s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003558s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000816s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002792s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003411s ]
+
+[ 2017-02-08T17:45:26+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003698s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003864s ]
+
+[ 2017-02-08T17:45:46+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003625s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000804s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002701s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004854s ]
+
+[ 2017-02-08T17:46:47+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000923s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004601s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000861s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002768s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034959s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003761s ]
+
+[ 2017-02-08T17:47:04+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000348s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006107s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000806s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002690s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005531s ]
+
+[ 2017-02-08T17:47:42+08:00 ] ::1 /ComicWeb/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000342s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003711s ]
+NOTIC: [2] session_start(): open(\xampp\tmp\sess_0hptnvnj936sr993holhnk6un1, O_RDWR) failed: No such file or directory (2) H:\phpEclipseWork\ComicWeb\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000830s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003702s ]
+

@@ -1,0 +1,18 @@
+[ 2017-02-09T15:40:32+08:00 ] ::1 /ComicWeb/admin.php/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000387s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002868s ]
+ERR: 无法加载模块:Login
+
+[ 2017-02-09T15:41:46+08:00 ] ::1 /ComicWeb/admin.php/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000347s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002773s ]
+ERR: 无法加载模块:Login
+
+[ 2017-02-09T15:41:49+08:00 ] ::1 /ComicWeb/admin.php/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002908s ]
+ERR: 无法加载模块:Login
+

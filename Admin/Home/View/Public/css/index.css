@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+.login{
+	margin:130px auto 0 auto;
+	width:500px;
+	height:300px;
+	box-shadow:0 0 5px 5px #888;
+	border-radius:20px 20px;
+	padding:30px;
+}
+.verify{
+	cursor:pointer;
+}
+.row2{
+	height:500px;
+
+}
+.left{
+	border-right:1px solid #ccc;
+	height:100%;
+	}
+.right{
+	height:100%;
+	}
+.content{
+	resize:none;}
+.heading{
+	height:75px;}
+	.foot{
+	height:48px;}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

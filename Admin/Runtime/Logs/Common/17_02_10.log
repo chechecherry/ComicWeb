@@ -1,0 +1,24 @@
+[ 2017-02-10T14:48:06+08:00 ] ::1 /ComicWeb/admin.php/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000472s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003915s ]
+ERR: 无法加载模块:Cartoon
+
+[ 2017-02-10T14:49:07+08:00 ] ::1 /ComicWeb/admin.php/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002911s ]
+ERR: 无法加载模块:Cartoon
+
+[ 2017-02-10T14:49:14+08:00 ] ::1 /ComicWeb/admin.php/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000360s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002967s ]
+ERR: 无法加载模块:Cartoon
+
+[ 2017-02-10T14:51:58+08:00 ] ::1 /ComicWeb/admin.php/Cartoon/add/menu/cartoon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000346s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003067s ]
+ERR: 无法加载模块:Cartoon
+
